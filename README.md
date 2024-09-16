@@ -13,19 +13,19 @@ Insights and recommendations are provided on the following key areas:
 
 
 
-An interactive PowerBI dashboard can be downloaded [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/Elist%20Electronics.pbix)
+An interactive PowerBI dashboard can be downloaded [here.](https://github.com/tomisi/Spun-Electronics-Sales-Analysis/blob/main/Elist%20Electronics.pbix)
 
-The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
+The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/tomisi/Spun-Electronics-Sales-Analysis/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
 
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql)
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here.](https://github.com/tomisi/Spun-Electronics-Sales-Analysis/blob/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql)
 
-Targeted SQL queries regarding various business questions can be found [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/SQL%20Queries/Targeted%20Business%20Questions.sql)
+Targeted SQL queries regarding various business questions can be found [here.](https://github.com/tomisi/Spun-Electronics-Sales-Analysis/blob/main/SQL%20Queries/Targeted%20Business%20Questions.sql)
 
 # Data Structure & Initial Checks
 
 Spun Electronics' database structure contains four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
 
-![Elist Electronics ERD](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/Elist%20Electronics%20ERD.png)
+![Spun Electronics ERD](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/Elist%20Electronics%20ERD.png)
 
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries used to inspect and perform quality checks can be found [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
 
