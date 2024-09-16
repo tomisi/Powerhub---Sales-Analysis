@@ -114,11 +114,3 @@ FROM median
 WHERE RowASC IN (RowDesc, RowDesc - 1, RowDesc + 1)
 GROUP BY 1
 ORDER BY 2 DESC;
-
-
-
-
-
-
-
-
