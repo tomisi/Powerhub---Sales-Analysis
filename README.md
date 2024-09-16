@@ -1,32 +1,32 @@
 # Project Background
-Powerhub, established in 2014, is a global e-commerce company that sells popular electronic products worldwide via its website and mobile app. 
+Spun Electronics, established in 2014, is a global e-commerce company that sells popular electronic products worldwide via its website and mobile app.
 
-The company has significant amounts of data on its sales, marketing efforts, operational efficiency, product offerings, and loyalty program that has been previously underutilized. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve Elist's commercial success. 
+The company has significant amounts of data on its sales, marketing efforts, operational efficiency, product offerings, and loyalty program that has been previously underutilized. This project thoroughly analyzes and synthesizes this data to uncover critical insights that will improve Spun Electronics' commercial success.
 
 Insights and recommendations are provided on the following key areas:
 
 - **Sales Trends Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Order Volume, and Average Order Value (AOV).
-- **Product Level Performance:** An analysis of Elist's various product lines, understanding their impact on sales and returns.
+- **Product Level Performance:**  An analysis of Spun Electronics, various product lines, understanding their impact on sales and returns.
 - **Loyalty Program Success:** An assessment of the loyalty program on customer retention and sales.
 - **Regional Comparisons:** An evaluation of sales and orders by region.
 
 
 
-An interactive PowerBI dashboard can be downloaded [here.](https://.pbix)
+An interactive PowerBI dashboard can be downloaded [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/Elist%20Electronics.pbix)
 
-The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/Checks.sql)
+The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
 
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here.](https://github.com/0Data%20for%20Analysis.sql)
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql)
 
-Targeted SQL queries regarding various business questions can be found [here.](https://gargeted%20Business%20Questions.sql)
+Targeted SQL queries regarding various business questions can be found [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/SQL%20Queries/Targeted%20Business%20Questions.sql)
 
 # Data Structure & Initial Checks
 
-Elist's database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
+Spun Electronics' database structure contains four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
 
-![Elist Electronics ERD](https://github.com/in/Elist%20Electronics%20ERD.png)
+![Elist Electronics ERD](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/Elist%20Electronics%20ERD.png)
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries used to inspect and perform quality checks can be found [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
 
 
 # Executive Summary
@@ -104,4 +104,3 @@ Based on the uncovered insights, the following recommendations have been provide
 * **Re-evaluate Bose SoundSport Headphones.** As the product has never made up more than 1% of annual revenue, attempt to sell through the product by implementing bundle offers and flash sales to non-Apple ecosystem loyalty members before discontinuing.
   
 * **Continue and push forward the loyalty program.** In order to convert non-members, consider offering a one-time sign-up discount paired with increased general marketing of membership benefits and savings. Focus targeted and personalized ads to previous customers, and utilize past order data to increase marketing efforts when previously purchased products may need replacing. 
-
