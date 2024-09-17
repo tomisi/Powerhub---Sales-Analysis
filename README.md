@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project Background
 Spun Electronics, established in 2014, is a global e-commerce company that sells popular electronic products worldwide via its website and mobile app.
 
@@ -105,6 +104,3 @@ Based on the uncovered insights, the following recommendations have been provide
 * **Re-evaluate Bose SoundSport Headphones.** As the product has never made up more than 1% of annual revenue, attempt to sell through the product by implementing bundle offers and flash sales to non-Apple ecosystem loyalty members before discontinuing.
   
 * **Continue and push forward the loyalty program.** In order to convert non-members, consider offering a one-time sign-up discount paired with increased general marketing of membership benefits and savings. Focus targeted and personalized ads to previous customers, and utilize past order data to increase marketing efforts when previously purchased products may need replacing. 
-=======
-
->>>>>>> origin/main
