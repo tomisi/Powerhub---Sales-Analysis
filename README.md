@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 
 
 
-An interactive PowerBI dashboard can be downloaded [here.](https://github.com/tomisi/Spun-Electronics-Sales-Analysis/raw/main/Spun%20Electronics.pbix)
+An interactive PowerBI dashboard can be downloaded [here.](https://github.com/tomisi/Spun-Electronics-Sales-Analysis/raw/refs/heads/main/Spun%20Electronics%20pbi.pbix)
 
 The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/tomisi/Spun-Electronics-Sales-Analysis/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
 
