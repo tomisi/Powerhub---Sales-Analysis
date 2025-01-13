@@ -26,7 +26,7 @@ Spun Electronics' database structure contains four tables: orders, customers, ge
 
 ![Spun Electronics ERD](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/Elist%20Electronics%20ERD.png)
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries used to inspect and perform quality checks can be found [here.](https://github.com/parthshah98/Electionic-Sales-Analysis/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries used to inspect and perform quality checks can be found [here.](https://github.com/tomisi/Spun-Electronics-Sales-Analysis/blob/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql)
 
 
 # Executive Summary
